@@ -1,1 +1,2 @@
 # money-tracker-ap_1
+an expense tracker is a software or application that helps to keep an accurate record of your money inflow and outflow. Many people in India live on a fixed income, and they find that towards the end of the month they don't have sufficient money to meet their needs.![Screenshot (191)](https://github.com/Kajalrajput12/money-tracker-ap_1/assets/162989301/977911af-fcd1-4733-8419-714ae1bdf79b)
